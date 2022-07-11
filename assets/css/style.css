@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar-right {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.jumbo {
+  padding: 25px 30px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.foto_item {
+  width: 150px;
+  height: 200px;
+  float: left;
+  text-align: center;
+  margin-right: 10px;
+}
+
+.foto_item img {
+  width: 150px;
+  margin-bottom: 15px;
+}
