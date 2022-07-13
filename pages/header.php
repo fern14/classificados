@@ -1,4 +1,5 @@
-<?php require 'config.php'; ?>
+<?php require 'config.php'; 
+?>
 <html>
   <head>
     <title>Classificados</title>
@@ -29,7 +30,6 @@
               <?php else: ?>
           </div>
         </div>
-
             <div class="container">
               <ul class="navbar-right d-flex">
                 <li><a href="cadastre-se.php">Cadastre</a></li>
